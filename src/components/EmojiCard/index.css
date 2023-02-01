@@ -1,0 +1,16 @@
+.emoji-card {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.emoji-button {
+  height: 100px;
+  width: 100px;
+  outline: none;
+  border: 0px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  cursor: pointer;
+}
+.emoji-img {
+  width: 50px;
+}

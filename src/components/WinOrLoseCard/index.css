@@ -1,0 +1,37 @@
+.win-loose-card {
+  display: flex;
+  background-color: whitesmoke;
+  padding: 20px;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.wl-details-container {
+}
+.wl-head {
+  color: black;
+  font-size: 30px;
+  font-weight: bold;
+}
+.wl-score-text {
+  color: orange;
+  font-size: 20px;
+  font-weight: bold;
+}
+.wl-score {
+  color: blue;
+  font-size: 20px;
+  font-weight: bold;
+}
+.wl-button {
+  padding: 10px;
+  color: white;
+  width: 100px;
+  background-color: lightblue;
+  outline: none;
+  border: 0px;
+  border-radius: 10px;
+}
+.wl-img {
+  width: 200px;
+}

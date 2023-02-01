@@ -1,0 +1,20 @@
+/* Write your code here. */
+.app-container {
+  background-image: linear-gradient(to right, #9796f0, #fbc7d4);
+  height: 100vh;
+}
+.emojis-bg-container {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.emojis-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  width: 500px;
+}

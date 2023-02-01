@@ -1,0 +1,31 @@
+.nav-container {
+  background-color: #9796f0;
+  padding: 10px;
+  height: 100px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.game-container {
+  display: flex;
+  align-items: center;
+}
+.game-logo {
+  width: 30px;
+  margin-left: 10px;
+}
+.game-name {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+.score-container {
+  display: flex;
+  align-items: center;
+}
+.score {
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+  margin-right: 10px;
+}
